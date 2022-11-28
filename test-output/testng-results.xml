@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-26T21:37:52 GMT+02:00" name="Default suite" finished-at="2022-11-26T21:38:11 GMT+02:00" duration-ms="18306">
+    <groups>
+      <group name="1">
+        <method signature="Smartbuy.Test_Adding_Item_SAMSUNG_50_inch()[pri:0, instance:Smartbuy@1fa268de]" name="Test_Adding_Item_SAMSUNG_50_inch" class="Smartbuy"/>
+        <method signature="Smartbuy.we_need_to_check_the_correct_price()[pri:0, instance:Smartbuy@1fa268de]" name="we_need_to_check_the_correct_price" class="Smartbuy"/>
+      </group> <!-- 1 -->
+    </groups>
+    <test started-at="2022-11-26T21:37:52 GMT+02:00" name="Default test" finished-at="2022-11-26T21:38:11 GMT+02:00" duration-ms="18306">
+      <class name="Smartbuy">
+        <test-method is-config="true" signature="this_is_before_test()[pri:0, instance:Smartbuy@1fa268de]" started-at="2022-11-26T21:37:52 GMT+02:00" name="this_is_before_test" finished-at="2022-11-26T21:38:09 GMT+02:00" duration-ms="16827" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- this_is_before_test -->
+        <test-method signature="Test_Adding_Item_SAMSUNG_50_inch()[pri:0, instance:Smartbuy@1fa268de]" started-at="2022-11-26T21:38:09 GMT+02:00" name="Test_Adding_Item_SAMSUNG_50_inch" finished-at="2022-11-26T21:38:11 GMT+02:00" duration-ms="1409" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Adding_Item_SAMSUNG_50_inch -->
+        <test-method signature="we_need_to_check_the_correct_price()[pri:0, instance:Smartbuy@1fa268de]" started-at="2022-11-26T21:38:11 GMT+02:00" name="we_need_to_check_the_correct_price" finished-at="2022-11-26T21:38:11 GMT+02:00" duration-ms="45" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- we_need_to_check_the_correct_price -->
+      </class> <!-- Smartbuy -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
